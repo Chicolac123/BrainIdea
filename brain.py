@@ -13,7 +13,7 @@ Created on Mon Jul 28 12:24:35 2025
 #   core beliefs (Axioms).
 #
 #   - Author of the Logic & Vision: Mario Guzman
-#   - Coded by: Gemini, as guided by you
+#   - Coded by: Gemini, and Mario Guzman 
 # ==============================================================================
 
 import sympy
