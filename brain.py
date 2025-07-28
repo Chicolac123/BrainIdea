@@ -12,7 +12,7 @@ Created on Mon Jul 28 12:24:35 2025
 #   that can learn, reason, and creatively explore ideas based on a set of
 #   core beliefs (Axioms).
 #
-#   - Author of the Logic & Vision: You
+#   - Author of the Logic & Vision: Mario Guzman
 #   - Coded by: Gemini, as guided by you
 # ==============================================================================
 
